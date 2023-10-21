@@ -1,4 +1,4 @@
-Hi 👋 My name is RAZA ILAHI KHAN
+Hi 👋 My name is Raza Khan
 ================================
 
 I've been learning to code for X years, I started with C and Python, but have really found a passion for XYZ
