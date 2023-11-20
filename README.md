@@ -3,10 +3,10 @@ Hi 👋 My name is Raza Khan
 
 I've been learning to code for X years, I started with C and Python, but have really found a passion for XYZ
 
-* 🌍  I'm based in India
+* 🌍  I'm based in India but currently in USA.
 * ✉️  You can contact me at [khanrazailahi@gmail.com](mailto:khanrazailahi@gmail.com)
-* 🧠  I'm learning Python, HTML, CSS
-* ⚡  I like to learn and collaborate on various projects and contribute as much as I can.
+* 🧠  I'm learning machine Python, SQL
+* ⚡  
 
 <a href="https://www.github.com/KhanRazaIlahi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KhanRazaIlahi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
